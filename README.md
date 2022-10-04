@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Glorykach
-- 👀 I’m interested in designing and coding
-- 🌱 I’m currently learning web development and ui/ux
+- 👀 I’m interested in coding.
+- 🌱 I’m currently learning frontend web development and UI/UX
 - 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me: onyekachiglory52@gmail.com
 
